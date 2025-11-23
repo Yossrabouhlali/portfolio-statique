@@ -189,5 +189,9 @@ This project is open source and available under the [MIT License](LICENSE).
 *Embedded Systems & Mobile Developer*
 
 <div align="center">
-  <img src="[./assets/footer-animation.gif](https://github.com/Yossrabouhlali/Portfolio-v1/blob/main/assets/Cat%20Girl%20GIF%20by%20Pluralsight.gif)" width="700">
+  <img 
+    src="https://raw.githubusercontent.com/Yossrabouhlali/Portfolio-v1/main/assets/Cat%20Girl%20GIF%20by%20Pluralsight.gif" 
+    width="700"
+    alt="Funny Footer Animation"
+  >
 </div>
