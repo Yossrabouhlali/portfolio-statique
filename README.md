@@ -1,8 +1,11 @@
 # Yossra Bouhlali - Portfolio Website
 
 <div align="center">
-  <img src="./assets/demo.gif" width="900" alt="Portfolio Demo">
+  <img src="https://raw.githubusercontent.com/Yossrabouhlali/Portfolio-v1/main/assets/Yossra%20Bouhlali%20-%20Portfolio%20-%20Google%20Chrome%202025-11-23%2004-47-13.gif" 
+       width="900" 
+       alt="Portfolio Demo">
 </div>
+
 
 A modern, interactive portfolio website showcasing embedded systems and mobile development expertise with an engaging 3D Three.js animation.
 
