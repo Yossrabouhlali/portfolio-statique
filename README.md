@@ -1,7 +1,7 @@
 # Yossra Bouhlali - Portfolio Website
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Yossrabouhlali/Portfolio-v1/main/assets/Yossra%20Bouhlali%20-%20Portfolio%20-%20Google%20Chrome%202025-11-23%2004-47-13.gif" 
+  <img src="https://github.com/Yossrabouhlali/portfolio-statique/blob/main/assets/Yossra%20Bouhlali%20-%20Portfolio%20-%20Google%20Chrome%202025-11-23%2004-47-13.gif" 
        width="900" 
        alt="Portfolio Demo">
 </div>
